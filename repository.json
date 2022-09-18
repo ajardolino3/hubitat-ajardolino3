@@ -7,7 +7,10 @@
       "name": "BLE Gateway Manager",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/ajardolino3/hubitat-ble-gateway/main/packageManifest.json",
-      "description": "Processes incoming bluetooth beacon data for home automation using a BLE gateway"
+      "description": "Processes incoming bluetooth beacon data for home automation using a BLE gateway",
+      "tags": [
+        "Presence & Location"
+      ]
     }
   ]
 }
