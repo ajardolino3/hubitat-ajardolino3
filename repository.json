@@ -1,0 +1,13 @@
+{
+  "author": "Art Ardolino",
+  "gitHubUrl": "https://github.com/ajardolino3",
+  "packages": [
+    {
+      "id": "7c961c0f-0505-4094-8aa1-519bedcf0bf7",
+      "name": "BLE Gateway Manager",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/ajardolino3/hubitat-ble-gateway/main/packageManifest.json",
+      "description": "Processes incoming bluetooth beacon data for home automation using a BLE gateway"
+    }
+  ]
+}
